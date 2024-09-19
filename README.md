@@ -18,7 +18,10 @@ Work in Progress
 
 <p align="center">
 1<br/>
-  
+
+
+![1](https://github.com/user-attachments/assets/9db0c8a7-0441-4d23-991f-81ecb49d7d27)
+
 
 
 <br />
@@ -26,6 +29,7 @@ Work in Progress
 <p align="center">
 2<br/>
 
+![2](https://github.com/user-attachments/assets/dbac0d88-b813-42d6-bec9-8372563ed099)
 
 
 
